@@ -30,7 +30,7 @@ I'**m** T**ian** J**i**m**ing**, an Internet engineer from Beijing, China.
             ![Django](https://img.shields.io/badge/-Django-orange?style=plastic&logo=Django)
 - 📫 CSDN blog: 
             https://jiming.blog.csdn.net
-- 👯 blibli UP: 
+- 👯 Blibli UP: 
             https://space.bilibili.com/616743906
 - 💬 Ask me：
             Any questions about Java
