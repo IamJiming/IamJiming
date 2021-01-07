@@ -22,8 +22,7 @@ I'**m** T**ian** J**i**m**ing**, an Internet engineer from Beijing, China.
 - 🔭 working: 
             ![Java](https://img.shields.io/badge/-Java-red?style=plastic&logo=Java)
             ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-            ![Dubbo](https://img.shields.io/badge/-Dubbo-orange?style=plastic&logo=Dubbo)
-            ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+            ![GitHub](https://img.shields.io/badge/-GitHub-orange?style=plastic&logo=github)
             ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 🌱 learning:
             ![Docker](https://img.shields.io/badge/-Docker-9cf?style=plastic&logo=Docker)
