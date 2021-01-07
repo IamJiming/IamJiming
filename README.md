@@ -20,15 +20,15 @@ I'**m** T**ian** J**i**m**ing**, an Internet engineer from Beijing, China.
 <img align="right" alt="jimmy's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=IamJiming&show_icons=true">
 
 - 🔭 working: 
-            ![Java](https://img.shields.io/badge/-Java-red)
+            ![Java](https://img.shields.io/badge/-Java-red?style=plastic&logo=Java)
             ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-            ![Dubbo](https://img.shields.io/badge/-Dubbo-orange)
+            ![Dubbo](https://img.shields.io/badge/-Dubbo-orange?style=plastic&logo=Dubbo)
             ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
             ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 🌱 learning:
-            ![Docker](https://img.shields.io/badge/-Docker-ff69b4)
-            ![K8s](https://img.shields.io/badge/-kubernetes-success)
-            ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
+            ![Docker](https://img.shields.io/badge/-Docker-ff69b4?style=plastic&logo=Docker)
+            ![kubernetes](https://img.shields.io/badge/-kubernetes-success?style=plastic&logo=kubernetes)
+            ![Django](https://img.shields.io/badge/-Django-blueviolet?style=plastic&logo=Django)
 - 📫 CSDN blog: 
             https://jiming.blog.csdn.net
 - 👯 collaborate: 
