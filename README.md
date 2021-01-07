@@ -15,14 +15,28 @@ Here are some ideas to get you started:
 
 ## Hi, there! 👋
 
-<img align="right" alt="jiming's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=IamJiming&show_icons=true">
-
 I'**m** T**ian** J**i**m**ing**, an Internet engineer from Beijing, China.
 
-- 🔭 working: Java,Dubbo,GitHub,Python,VScode
-- 🌱 learning: Docker,K8s
-- 📫 CSDN blog: https://jiming.blog.csdn.net
-- 💬 Ask me：Any questions about Java
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: The more you know, the more you don't know.
+<img align="right" alt="jimmy's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=IamJiming&show_icons=true">
+
+- 🔭 working: 
+            ![Java](https://img.shields.io/badge/-Java-red)
+            ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+            ![Dubbo](https://img.shields.io/badge/-Dubbo-orange)
+            ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+            ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+- 🌱 learning:
+            ![Docker](https://img.shields.io/badge/-Docker-ff69b4)
+            ![K8s](https://img.shields.io/badge/-kubernetes-success)
+            ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
+- 📫 CSDN blog: 
+            https://jiming.blog.csdn.net
+- 👯 collaborate: 
+            https://github.com/it-ignorant-man
+- 💬 Ask me：
+            Any questions about Java
+- 😄 Pronouns: 
+            he/him
+- ⚡ Fun fact: 
+            The more you know, the more you don't know.
 ---
