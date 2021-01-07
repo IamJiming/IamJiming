@@ -22,12 +22,12 @@ I'**m** T**ian** J**i**m**ing**, an Internet engineer from Beijing, China.
 - 🔭 working: 
             ![Java](https://img.shields.io/badge/-Java-red?style=plastic&logo=Java)
             ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-            ![GitHub](https://img.shields.io/badge/-GitHub-orange?style=plastic&logo=github)
+            ![GitHub](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github)
             ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 🌱 learning:
             ![Docker](https://img.shields.io/badge/-Docker-9cf?style=plastic&logo=Docker)
             ![kubernetes](https://img.shields.io/badge/-kubernetes-green?style=plastic&logo=kubernetes)
-            ![Django](https://img.shields.io/badge/-Django-lightgrey?style=plastic&logo=Django)
+            ![Django](https://img.shields.io/badge/-Django-orange?style=plastic&logo=Django)
 - 📫 CSDN blog: 
             https://jiming.blog.csdn.net
 - 👯 collaborate: 
