@@ -27,7 +27,7 @@ I'**m** T**ian** J**i**m**ing**, an Internet engineer from Beijing, China.
             ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 🌱 learning:
             ![Docker](https://img.shields.io/badge/-Docker-9cf?style=plastic&logo=Docker)
-            ![kubernetes](https://img.shields.io/badge/-kubernetes-important?style=plastic&logo=kubernetes)
+            ![kubernetes](https://img.shields.io/badge/-kubernetes-green?style=plastic&logo=kubernetes)
             ![Django](https://img.shields.io/badge/-Django-blue?style=plastic&logo=Django)
 - 📫 CSDN blog: 
             https://jiming.blog.csdn.net
